@@ -1,0 +1,36 @@
+body {
+	
+	
+}
+
+p {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+img {
+	display: block;
+	border-style: dashed;
+	border-bottom-width: 2px;
+	border-color: #ff0000;
+	margin-left: auto;
+    margin-right: auto;
+	
+}
+
+video {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
